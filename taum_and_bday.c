@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main(void) {
-	int b,w,x,y,z,c1,c2,c3,T,i;
+	long int b,w,x,y,z,c1,c2,c3:
+	int T,i;
 	scanf("%d",&T);
 	if((0<=T)||(T<=10))
 	{
